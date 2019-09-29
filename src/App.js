@@ -12,8 +12,8 @@ function App() {
     <div className="App">
 
       <div className="content">
-        <h1 className="Header">Allan Nozomu</h1>
-        <h3 className="SubHeader">Django Fullstack developer</h3>
+        <h1 className="Header">Hi, I'm <span className="Header-red">Allan Nozomu</span></h1>
+        <h3 className="SubHeader">I'm a full-stack developer</h3>
         <div className="App-body">
           <a href="https://linkedin.com/in/allan-nozomu/" target="#">
             <FontAwesomeIcon  className="footer-item" icon={['fab', 'linkedin']} />
@@ -23,9 +23,8 @@ function App() {
           </a>
         </div>
       </div>
-
       <footer className="App-footer">
-        <p>Created with <FontAwesomeIcon icon="heart" color="red" /> by <a href="https://github.com/allannozomu/my-site" target="#">allannozomu</a></p>
+        <p>Created with <FontAwesomeIcon icon="heart" color="#EB5252" /> by <a href="https://github.com/allannozomu/my-site" target="#">allannozomu</a></p>
       </footer>
     </div>
   );

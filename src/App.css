@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   min-height: 100vh;
 
   background-color: white;
@@ -11,13 +10,20 @@
 
 .content {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
 }
 
 .Header {
   font-family: 'BebasNue';
-  font-size: 9em;
+  font-size: 7em;
   letter-spacing: 1vmin;
+}
+
+.Header-red {
+  color: rgb(235, 82, 82);
 }
 
 .SubHeader {

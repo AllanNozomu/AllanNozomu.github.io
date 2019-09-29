@@ -1,29 +1,46 @@
 .App {
-  text-align: center;
-}
-
-.App-header {
-  background-color: white;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: black;
+  min-height: 100vh;
+
+  background-color: white;
+  color: #2e2e2e;
+}
+
+.content {
+  flex: 1;
+  text-align: center;
 }
 
 .Header {
   font-family: 'BebasNue';
-  font-size: 4em;
+  font-size: 9em;
   letter-spacing: 1vmin;
 }
 
 .SubHeader {
   font-family: 'CardoRegular';
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
-.SubHeader a {
-  color: white;
+.App-body {
+  font-size: 4em;
+}
+
+.footer-item {
+  color: #2e2e2e;
+  margin: 0.5em;
+  transition: all 0.1s linear;
+}
+
+.footer-item:hover {
+  color: black;
+  transform: scale(1.1);
+  transform-origin: center;
+}
+
+.App-footer a{
+  color: black;
 }

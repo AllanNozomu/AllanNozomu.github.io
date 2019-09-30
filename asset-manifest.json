@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ea05db6.chunk.css",
+    "main.js": "/static/js/main.d3688262.chunk.js",
+    "main.js.map": "/static/js/main.d3688262.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1d4afee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1d4afee.js.map",
+    "static/js/2.0e47130c.chunk.js": "/static/js/2.0e47130c.chunk.js",
+    "static/js/2.0e47130c.chunk.js.map": "/static/js/2.0e47130c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a9f3b5dd2151e00af913f5044d5e0346.js": "/precache-manifest.a9f3b5dd2151e00af913f5044d5e0346.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4ea05db6.chunk.css.map": "/static/css/main.4ea05db6.chunk.css.map",
+    "static/media/index.css": "/static/media/Cardo-Regular.e6637481.ttf"
+  }
+}

@@ -1,7 +1,25 @@
 .animated-header {
     font-family: 'BebasNue';
-    font-size: 7em;
+    font-size: 7rem;
     letter-spacing: 1vmin;
+    white-space: nowrap;
+    display: initial;
+}
+
+.hidden-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 900px){
+    .animated-header {
+        font-family: 'BebasNue';
+        font-size: 15vw;
+        display: initial;
+    }
+
+    .hidden-mobile {
+        display: initial;
+    }
 }
   
 .different-color {

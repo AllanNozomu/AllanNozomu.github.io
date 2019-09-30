@@ -5,3 +5,13 @@
 .App-footer a{
     color: black;
 }
+
+.last-update {
+    display: none;
+}
+
+@media screen and (min-width: 768px){
+    .last-update {
+        display: initial;
+    }
+}

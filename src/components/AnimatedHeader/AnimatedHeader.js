@@ -12,14 +12,18 @@ const AnimatedChar = (c, index, cls) => {
 const AnimatedHeader = (props) => {
   const { header, secondColorHeader } = props;
   return (
+    <span>
+
     <h1 className="animated-header">
       {header && 
         [...header].map((c, index) => AnimatedChar(c, index))
       }
+      <br className="hidden-mobile" />
       {secondColorHeader && 
         [...secondColorHeader].map((c, index) => AnimatedChar(c, index, "different-color"))
       }
     </h1>
+    </span>
   )
 }
 

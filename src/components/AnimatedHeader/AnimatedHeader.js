@@ -8,7 +8,7 @@ const AnimatedChar = (c, index) => {
 const AnimatedHeader = (props) => {
   const { header, secondColorHeader } = props;
   return (
-    <h1 className="header animated-char">
+    <h1 className="animated-header animated-char">
       {header && <span>
         {[...header].map((c, index) => AnimatedChar(c, index))}
         </span>

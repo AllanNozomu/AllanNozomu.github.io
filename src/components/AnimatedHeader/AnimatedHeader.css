@@ -1,0 +1,20 @@
+.header {
+    font-family: 'BebasNue';
+    font-size: 7em;
+    letter-spacing: 1vmin;
+}
+  
+.different-color {
+    color: rgb(235, 82, 82);
+}
+
+.animated-char span span:not(.space){
+    display: inline-block; 
+    transition: all 0.1s linear;
+}
+  
+.animated-char span span:hover{
+    filter: brightness(75%);
+    transform: scale(1.05); 
+    transform-origin: center;
+}

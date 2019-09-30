@@ -16,26 +16,13 @@
   text-align: center;
 }
 
-.Header {
-  font-family: 'BebasNue';
-  font-size: 7em;
-  letter-spacing: 1vmin;
-}
-
-.Header-red {
-  color: rgb(235, 82, 82);
-}
-
 .SubHeader {
   font-family: 'CardoRegular';
   font-size: 3em;
 }
 
-.App-body {
-  font-size: 4em;
-}
-
 .footer-item {
+  font-size: 4em;
   color: #2e2e2e;
   margin: 0.5em;
   transition: all 0.1s linear;

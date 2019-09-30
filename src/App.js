@@ -4,6 +4,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faHeart } from '@fortawesome/free-solid-svg-icons'
 import './App.css';
+import { AnimatedHeader } from './components'
 
 library.add(fab, faHeart)
 
@@ -12,9 +13,9 @@ function App() {
     <div className="App">
 
       <div className="content">
-        <h1 className="Header">Hi, I'm <span className="Header-red">Allan Nozomu</span></h1>
-        <h3 className="SubHeader">I'm a full-stack developer</h3>
+        <AnimatedHeader header={"Hi, I'm "} secondColorHeader={"Allan Nozomu"} />
         <div className="App-body">
+          <h3 className="SubHeader">I'm a full-stack developer</h3>
           <a href="https://linkedin.com/in/allan-nozomu/" target="#">
             <FontAwesomeIcon  className="footer-item" icon={['fab', 'linkedin']} />
           </a>

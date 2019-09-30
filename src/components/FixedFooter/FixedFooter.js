@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const FixedFooter = () => {
   return (
-    <footer className="fApp-ooter">
+    <footer className="App-footer">
       <p>
         {`Created with `}
         <FontAwesomeIcon icon="heart" className="heart" /> 

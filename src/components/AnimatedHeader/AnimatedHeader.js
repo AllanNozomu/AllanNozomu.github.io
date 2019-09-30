@@ -1,7 +1,7 @@
 import React from 'react'
 import './AnimatedHeader.css';
 
-const AnimatedChar = (c, index, cls) => {
+const AnimatedChar = (c, index, cls="") => {
   return (
     <span key={index} className={c === ' ' ? "space" : "animated-char " + cls}>
       {c}

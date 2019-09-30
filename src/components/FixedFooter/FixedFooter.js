@@ -2,7 +2,9 @@ import React from 'react'
 import './FixedFooter.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-const FixedFooter = () => {
+const FixedFooter = (props) => {
+  const {lastTimeUpdate} = props
+
   return (
     <footer className="App-footer">
       <p>
@@ -10,6 +12,7 @@ const FixedFooter = () => {
         <FontAwesomeIcon icon="heart" className="heart" /> 
         {` by `} 
         <a href="https://github.com/allannozomu/my-site" target="#">allannozomu</a>
+        {` | Last update on ${lastTimeUpdate}`}
       </p>
     </footer>
   )

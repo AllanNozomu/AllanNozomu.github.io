@@ -4,6 +4,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faHeart } from '@fortawesome/free-solid-svg-icons'
 import { AnimatedHeader, FixedFooter } from './components'
+import { lastTimeUpdate } from './lastTimeUpdate.json';
 
 import './App.css';
 
@@ -27,8 +28,8 @@ function App() {
         </div>
 
       </div>
-      
-      <FixedFooter />
+
+      <FixedFooter lastTimeUpdate={lastTimeUpdate} />
     </div>
   );
 }

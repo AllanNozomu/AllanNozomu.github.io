@@ -8,12 +8,12 @@
     color: #EB5252;
 }
 
-.animated-char span span:not(.space){
+.animated-char:not(.space){
     display: inline-block; 
     transition: all 0.1s linear;
 }
   
-.animated-char span span:hover{
+.animated-char:hover{
     filter: brightness(75%);
     transform: scale(1.05); 
     transform-origin: center;

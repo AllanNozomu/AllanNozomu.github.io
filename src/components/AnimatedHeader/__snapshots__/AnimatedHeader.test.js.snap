@@ -1,0 +1,619 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedHeader Animated Header 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <span
+      className="animated-char "
+      key="0"
+    >
+      H
+    </span>
+    <span
+      className="animated-char "
+      key="1"
+    >
+      e
+    </span>
+    <span
+      className="animated-char "
+      key="2"
+    >
+      l
+    </span>
+    <span
+      className="animated-char "
+      key="3"
+    >
+      l
+    </span>
+    <span
+      className="animated-char "
+      key="4"
+    >
+      o
+    </span>
+    <span
+      className="space"
+      key="5"
+    >
+       
+    </span>
+    <br
+      className="hidden-mobile"
+    />
+    <span
+      className="animated-char different-color"
+      key="0"
+    >
+      W
+    </span>
+    <span
+      className="animated-char different-color"
+      key="1"
+    >
+      o
+    </span>
+    <span
+      className="animated-char different-color"
+      key="2"
+    >
+      r
+    </span>
+    <span
+      className="animated-char different-color"
+      key="3"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="4"
+    >
+      d
+    </span>
+    <span
+      className="animated-char different-color"
+      key="5"
+    >
+      !
+    </span>
+  </h1>
+</span>
+`;
+
+exports[`AnimatedHeader Animated Header random 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <span
+      className="animated-char "
+      key="0"
+    >
+      	
+    </span>
+    <span
+      className="animated-char "
+      key="1"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="2"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="3"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="4"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="5"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="6"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="7"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="8"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="9"
+    >
+      :
+    </span>
+    <span
+      className="animated-char "
+      key="10"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="11"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="12"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="13"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="14"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="15"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="16"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="17"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="18"
+    >
+      :
+    </span>
+    <span
+      className="animated-char "
+      key="19"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="20"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="21"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="22"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="23"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="24"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="25"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="26"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="27"
+    >
+      :
+    </span>
+    <span
+      className="animated-char "
+      key="28"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="29"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="30"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="31"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="32"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="33"
+    >
+      0
+    </span>
+    <span
+      className="animated-char "
+      key="34"
+    >
+      1
+    </span>
+    <span
+      className="animated-char "
+      key="35"
+    >
+      0
+    </span>
+    <span
+      className="space"
+      key="36"
+    >
+       
+    </span>
+    <br
+      className="hidden-mobile"
+    />
+    <span
+      className="animated-char different-color"
+      key="0"
+    >
+      W
+    </span>
+    <span
+      className="animated-char different-color"
+      key="1"
+    >
+      o
+    </span>
+    <span
+      className="animated-char different-color"
+      key="2"
+    >
+      r
+    </span>
+    <span
+      className="animated-char different-color"
+      key="3"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="4"
+    >
+      d
+    </span>
+    <span
+      className="animated-char different-color"
+      key="5"
+    >
+      !
+    </span>
+  </h1>
+</span>
+`;
+
+exports[`AnimatedHeader Animated Header with header only 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <span
+      className="animated-char "
+      key="0"
+    >
+      H
+    </span>
+    <span
+      className="animated-char "
+      key="1"
+    >
+      e
+    </span>
+    <span
+      className="animated-char "
+      key="2"
+    >
+      l
+    </span>
+    <span
+      className="animated-char "
+      key="3"
+    >
+      l
+    </span>
+    <span
+      className="animated-char "
+      key="4"
+    >
+      o
+    </span>
+    <span
+      className="space"
+      key="5"
+    >
+       
+    </span>
+    <span
+      className="animated-char "
+      key="6"
+    >
+      W
+    </span>
+    <span
+      className="animated-char "
+      key="7"
+    >
+      o
+    </span>
+    <span
+      className="animated-char "
+      key="8"
+    >
+      r
+    </span>
+    <span
+      className="animated-char "
+      key="9"
+    >
+      l
+    </span>
+    <span
+      className="animated-char "
+      key="10"
+    >
+      d
+    </span>
+    <span
+      className="animated-char "
+      key="11"
+    >
+      !
+    </span>
+    <br
+      className="hidden-mobile"
+    />
+  </h1>
+</span>
+`;
+
+exports[`AnimatedHeader Animated Header with secondColorHeader only 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <br
+      className="hidden-mobile"
+    />
+    <span
+      className="animated-char different-color"
+      key="0"
+    >
+      H
+    </span>
+    <span
+      className="animated-char different-color"
+      key="1"
+    >
+      e
+    </span>
+    <span
+      className="animated-char different-color"
+      key="2"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="3"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="4"
+    >
+      o
+    </span>
+    <span
+      className="space"
+      key="5"
+    >
+       
+    </span>
+    <span
+      className="animated-char different-color"
+      key="6"
+    >
+      W
+    </span>
+    <span
+      className="animated-char different-color"
+      key="7"
+    >
+      o
+    </span>
+    <span
+      className="animated-char different-color"
+      key="8"
+    >
+      r
+    </span>
+    <span
+      className="animated-char different-color"
+      key="9"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="10"
+    >
+      d
+    </span>
+    <span
+      className="animated-char different-color"
+      key="11"
+    >
+      !
+    </span>
+  </h1>
+</span>
+`;
+
+exports[`AnimatedHeader Animated Header with secondColorHeader only 2`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <br
+      className="hidden-mobile"
+    />
+    <span
+      className="animated-char different-color"
+      key="0"
+    >
+      H
+    </span>
+    <span
+      className="animated-char different-color"
+      key="1"
+    >
+      e
+    </span>
+    <span
+      className="animated-char different-color"
+      key="2"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="3"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="4"
+    >
+      o
+    </span>
+    <span
+      className="space"
+      key="5"
+    >
+       
+    </span>
+    <span
+      className="animated-char different-color"
+      key="6"
+    >
+      W
+    </span>
+    <span
+      className="animated-char different-color"
+      key="7"
+    >
+      o
+    </span>
+    <span
+      className="animated-char different-color"
+      key="8"
+    >
+      r
+    </span>
+    <span
+      className="animated-char different-color"
+      key="9"
+    >
+      l
+    </span>
+    <span
+      className="animated-char different-color"
+      key="10"
+    >
+      d
+    </span>
+    <span
+      className="animated-char different-color"
+      key="11"
+    >
+      !
+    </span>
+  </h1>
+</span>
+`;
+
+exports[`AnimatedHeader Animated Header without params 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <br
+      className="hidden-mobile"
+    />
+  </h1>
+</span>
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimatedHeader Footer with last update date 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <br
+      className="hidden-mobile"
+    />
+  </h1>
+</span>
+`;
+
+exports[`AnimatedHeader Footer without last update date 1`] = `
+<span>
+  <h1
+    className="animated-header"
+  >
+    <br
+      className="hidden-mobile"
+    />
+  </h1>
+</span>
+`;

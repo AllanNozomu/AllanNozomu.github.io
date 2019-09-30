@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FixedFooter Footer with last update date 1`] = `
+<footer
+  className="App-footer"
+>
+  <p>
+    Created with 
+    <FontAwesomeIcon
+      border={false}
+      className="heart animated-char"
+      fixedWidth={false}
+      flip={null}
+      icon="heart"
+      inverse={false}
+      listItem={false}
+      mask={null}
+      pull={null}
+      pulse={false}
+      rotation={null}
+      size={null}
+      spin={false}
+      swapOpacity={false}
+      symbol={false}
+      title=""
+      transform={null}
+    />
+     by 
+    <a
+      href="https://github.com/allannozomu/my-site"
+      target="#"
+    >
+      allannozomu
+    </a>
+    <span
+      className="last-update"
+    >
+       
+       | Last update on 11/12/2013
+       
+    </span>
+  </p>
+</footer>
+`;
+
+exports[`FixedFooter Footer without last update date 1`] = `
+<footer
+  className="App-footer"
+>
+  <p>
+    Created with 
+    <FontAwesomeIcon
+      border={false}
+      className="heart animated-char"
+      fixedWidth={false}
+      flip={null}
+      icon="heart"
+      inverse={false}
+      listItem={false}
+      mask={null}
+      pull={null}
+      pulse={false}
+      rotation={null}
+      size={null}
+      spin={false}
+      swapOpacity={false}
+      symbol={false}
+      title=""
+      transform={null}
+    />
+     by 
+    <a
+      href="https://github.com/allannozomu/my-site"
+      target="#"
+    >
+      allannozomu
+    </a>
+  </p>
+</footer>
+`;

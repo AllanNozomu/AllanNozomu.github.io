@@ -4,7 +4,7 @@
   align-items: center;
   min-height: 100vh;
 
-  background-color: white;
+  background-color: #F8F8FF;
   color: #2e2e2e;
 }
 
@@ -21,19 +21,15 @@
   font-size: 3em;
 }
 
-.footer-item {
+.social-item {
   font-size: 4em;
   color: #2e2e2e;
   margin: 0.5em;
   transition: all 0.1s linear;
 }
 
-.footer-item:hover {
+.social-item:hover {
   color: black;
   transform: scale(1.1);
   transform-origin: center;
-}
-
-.App-footer a{
-  color: black;
 }
